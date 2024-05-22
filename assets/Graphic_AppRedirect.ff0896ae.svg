@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="152px" height="146px" viewBox="0 0 152 146" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="SME---Sign-In" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="XL---Sign-In-Alt-Option-1.0-Copy" transform="translate(-1525.000000, -446.000000)">
+            <g id="Group-3" transform="translate(427.825779, 283.475799)">
+                <g id="Group" transform="translate(1100.782145, 166.318533)">
+                    <rect id="Rectangle-Copy-2" stroke="#EDECFE" stroke-width="6" x="25.5021737" y="9.85058594" width="62.2050963" height="103.888401" rx="8"></rect>
+                    <rect id="Rectangle-Copy-5" stroke="#E2F3EB" stroke-width="6" x="61.8547218" y="0" width="82.9294298" height="138.5" rx="8"></rect>
+                    <rect id="Rectangle-Copy-4" stroke="#FEEDD7" stroke-width="6" x="0" y="69.25" width="33.70727" height="56.2943324" rx="8"></rect>
+                    <g id="icon/mobilePhone" transform="translate(39.168840, 35.128120)" fill="#151943" fill-rule="nonzero">
+                        <g id="mobile-screen-button-solid">
+                            <path d="M0,6.66666667 C0,2.98958333 2.98958333,0 6.66666667,0 L30,0 C33.6770833,0 36.6666667,2.98958333 36.6666667,6.66666667 L36.6666667,46.6666667 C36.6666667,50.34375 33.6770833,53.3333333 30,53.3333333 L6.66666667,53.3333333 C2.98958333,53.3333333 0,50.34375 0,46.6666667 L0,6.66666667 Z M21.6666667,46.6666667 C21.6666667,44.8257175 20.1742825,43.3333333 18.3333333,43.3333333 C16.4923842,43.3333333 15,44.8257175 15,46.6666667 C15,48.5076158 16.4923842,50 18.3333333,50 C20.1742825,50 21.6666667,48.5076158 21.6666667,46.6666667 Z M30,6.66666667 L6.66666667,6.66666667 L6.66666667,40 L30,40 L30,6.66666667 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

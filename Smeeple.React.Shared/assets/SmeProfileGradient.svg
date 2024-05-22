@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="390px" height="210px" viewBox="0 0 390 210" version="1.1"
+    xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Oval</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="41.1115838%" id="linearGradient-1">
+            <stop stop-color="#F8961F" stop-opacity="0.495602054" offset="0%"></stop>
+            <stop stop-color="#F8961F" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Archive---Brand-Update" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"
+        opacity="0.245651972">
+        <g id="Brand2_SME-Profile-E" transform="translate(0.000000, -222.000000)"
+            fill="url(#linearGradient-1)">
+            <circle id="Oval-Copy-2" cx="195" cy="477.213893" r="254.5"></circle>
+        </g>
+    </g>
+</svg>
