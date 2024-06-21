@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280px" height="900px" viewBox="0 0 1280 900" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="SME---Login" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(-394.239311, -380.905811)">
+            <g id="Group-Copy-5" transform="translate(1435.357484, 588.068943)" fill="#F8961F">
+                <circle id="Oval" cx="220.222528" cy="220.222528" r="220.222528"></circle>
+            </g>
+            <g id="Group-4-Copy-6" transform="translate(361.950284, 361.950284) rotate(-45.000000) translate(-361.950284, -361.950284) translate(153.825284, 58.200284)" fill="#615AF3">
+                <rect id="Rectangle" x="3.13982738e-14" y="2.02018055e-13" width="416.25" height="607.5" rx="180"></rect>
+            </g>
+            <g id="Group-2-Copy-7" transform="translate(613.370544, 1046.457307)" fill="#5EBF8F">
+                <path d="M180,0 L661.737534,0 C761.148789,1.01601582e-14 841.737534,80.588745 841.737534,180 L841.737534,568.199552 C841.737534,580.625959 831.663941,590.699552 819.237534,590.699552 L22.5,590.699552 C10.0735931,590.699552 1.2179937e-14,580.625959 0,568.199552 L0,180 C-1.21743675e-14,80.588745 80.588745,4.66832607e-14 180,0 Z" id="Rectangle"></path>
+            </g>
+            <polygon id="Path-2" stroke="#FFFFFF" stroke-width="2" style="mix-blend-mode: overlay;" points="1655.58001 808.699825 1034.23931 1341.80708 361.950284 361.950284"></polygon>
+        </g>
+    </g>
+</svg>
